@@ -28,7 +28,7 @@ import { ProductCards } from "./ProductCards";
 }
 ];*/
 
-export function ProductContainer({products, setCart, cart, onHandleStock}){
+export function ProductContainer({products, setCart, cart, onPurchase}){
     //console.log(cart);
     //console.log(onHandleStock);
 
@@ -36,13 +36,14 @@ export function ProductContainer({products, setCart, cart, onHandleStock}){
         <div className="productsList">
             {products.map(
                 ({ image, productname, price, stock}, id ) => <ProductCards key={id} 
+                {...productname}
                 image={image} 
                 productname={productname} 
                 price={price} 
                 stock={stock} 
                 setCart={setCart}
                 cart={cart}
-                onHandleStock={onHandleStock} />)}
+                onPurchase={onPurchase} />)}
 
         </div>
         

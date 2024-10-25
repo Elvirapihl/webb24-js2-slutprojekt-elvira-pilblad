@@ -1,31 +1,32 @@
-[{
+[
+  {
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta1c5c1a209cb4eaf/76919_alt1.jpg",
+    "productname": "Formel 1 Lego",
+    "price": 299,
+    "stock": 0
+  },
+  {
     "image": "https://www.elgiganten.se/image/dv_web_D180001001358292/19064/animal-crossing-switch--pdp_main-1920.jpg",
     "productname": "Animal Crossing",
     "price": 699,
     "stock": 2
-},
-{
+  },
+  {
     "image": "https://minprilla.se/wp-content/uploads/2024/09/VELO-McLaren-Prs.jpg",
     "productname": "Velo snus",
     "price": 50,
+    "stock": 3
+  },
+  {
+    "image": "https://nordictemptations.com/wp-content/uploads/2021/09/Zoega-Skanerost-coffee.jpg",
+    "productname": "Kaffe",
+    "price": 89,
     "stock": 5
-},
-{
-    "image":"https://www.cooperscandy.com/upload/prod/800012685.jpg",
+  },
+  {
+    "image": "https://assets.flaivy.com/eyJidWNrZXQiOiJmbGFpdnktYXNzZXRzIiwia2V5IjoiZjU5ZWYwNDZmZDZjYzZlYTI5OTRkZDZjYWRjYWZkYzMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjowLjV9LCJ3aWR0aCI6NDAwLCJoZWlnaHQiOjQwMH19fQ==",
     "productname": "Nocco Rhubarb Jordgubb",
     "price": 18,
     "stock": 10
-},
-{
-    "image":"https://nordictemptations.com/wp-content/uploads/2021/09/Zoega-Skanerost-coffee.jpg",
-    "productname": "Kaffe",
-    "price": 89,
-    "stock": 6
-},
-{
-    "image":"https://www.lego.com/cdn/cs/set/assets/blta1c5c1a209cb4eaf/76919_alt1.jpg",
-    "productname": "Formel 1 Lego",
-    "price": 299,
-    "stock": 0
-}
+  }
 ]
